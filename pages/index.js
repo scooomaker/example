@@ -1,11 +1,12 @@
-
 export default function Home() {
   return (
     <>
-      <head>
-        <meta http-equiv="refresh" content="0;url=https://sdfz.fjnu.edu.cn/" />
-      </head>
 
+      <main>
+
+        Hello World!
+        <meta http-equiv="refresh" content="15; URL='https://sdfz.fjnu.edu.cn/'" />
+      </main>
     </>
   )
 }
